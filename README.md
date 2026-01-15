@@ -8,7 +8,7 @@ Backend API for managing orders with business rules and clean architecture.
 - Total amount is calculated in the backend
 
 ## Tech Stack
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
